@@ -1,0 +1,62 @@
+
+**Product Listings:**
+
+Product ID: B08N5WRWNW
+Title: Samsung Galaxy S21 Ultra
+Description: 5G Smartphone with 108MP Camera, 12GB RAM, 128GB Storage
+Price: $1,199.99
+Rating: 4.7 out of 5 stars
+Reviews: 2,345
+Availability: In Stock
+Seller: Samsung Electronics
+Shipping: Free Shipping
+
+Product ID: B07Y4QWTC7
+Title: Apple MacBook Pro 13-inch
+Description: M1 Chip, 8GB RAM, 256GB SSD, Retina Display
+Price: $1,299.99
+Rating: 4.8 out of 5 stars
+Reviews: 4,567
+Availability: In Stock
+Seller: Apple Inc.
+Shipping: Free Shipping
+
+Product ID: B08L5VZKWT
+Title: Sony WH-1000XM4 Wireless Headphones
+Description: Noise Cancelling, Over Ear, 30 Hours Battery Life
+Price: $349.99
+Rating: 4.6 out of 5 stars
+Reviews: 8,912
+Availability: In Stock
+Seller: Sony
+Shipping: Free Shipping
+
+Product ID: B084DWG2VQ
+Title: Fitbit Charge 4 Fitness and Activity Tracker
+Description: Built-in GPS, Heart Rate, Sleep & Swim Tracking
+Price: $129.95
+Rating: 4.4 out of 5 stars
+Reviews: 12,345
+Availability: In Stock
+Seller: Fitbit
+Shipping: Free Shipping
+
+Product ID: B07PGL2ZSL
+Title: Instant Pot Duo 7-in-1 Electric Pressure Cooker
+Description: Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, and Warmer
+Price: $89.99
+Rating: 4.7 out of 5 stars
+Reviews: 65,432
+Availability: In Stock
+Seller: Instant Pot
+Shipping: Free Shipping
+
+Product ID: B07XJ8C8F5
+Title: Amazon Echo (3rd Gen)
+Description: Smart speaker with Alexa
+Price: $99.99
+Rating: 4.5 out of 5 stars
+Reviews: 25,678
+Availability: In Stock
+Seller: Amazon
+Shipping: Free Shipping
