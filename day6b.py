@@ -27,4 +27,5 @@ with open(input("Which file should we use for the count? "), 'r', encoding='utf-
     #print(COUNTING_LIST_TO_SORT)
     COUNTING_LIST_SORTED = COUNTING_LIST_TO_SORT #not sorted here - just copied
     COUNTING_LIST_SORTED.sort(reverse=True) #highest to lowest
+    # works bc the left most value in tuple is counted first in sort
     print(COUNTING_LIST_SORTED)

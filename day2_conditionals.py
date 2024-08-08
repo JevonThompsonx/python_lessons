@@ -1,5 +1,5 @@
 """
-Day 2 of relearning python basics and going beyond
+Day 2 of relearning python basics and going beyond - Conditionals
 
 pairs w/ notes at : https://www.notion.so/jthompsonx/Python-b23bb5e2929c4c8c8be73588a155e595?pvs=4
 """

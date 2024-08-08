@@ -19,4 +19,4 @@ with open('regexEx3.txt','r',encoding='utf-8') as FILE_HANDLE:
     for title in titleMatch:
         print(f"{title} is ${priceMatch[TITLE_LOOP_VAR]} with a rating of {ratingMatch[TITLE_LOOP_VAR]}")
         TITLE_LOOP_VAR += 1
-    
+
