@@ -10,8 +10,11 @@ REQUEST = httpx.get(URL, timeout=10).json()
 DATA = REQUEST[0]
 #print(DATA['phonetics'][0]['audio'])
 async def fetch_data(url):
+    """Fetches data from given url 
+    Returns in json format
+    """
     async with httpx.AsyncClient() as client:
-        result = (await client.get(url))
+        result = await client.get(url)
         print(result.text)
         print('\n')
         print(result.headers)
@@ -25,9 +28,7 @@ async def find_data():
     """
     data = await fetch_data(URL)
     word = data['word']
-    meanings = data['meanings']
     print(word)
-   
 async def main():
     """
     Runs all async functions
@@ -35,4 +36,3 @@ async def main():
     await find_data()
 #asyncio.run(main())
 asyncio.run(fetch_data(URL))
-

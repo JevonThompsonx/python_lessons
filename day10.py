@@ -21,5 +21,3 @@ UNPARSED_TEXT = re.findall(r'.+',TEXT)
 for line in UNPARSED_TEXT:
     PARSED_TEXT = PARSED_TEXT + line + ' '
 print(PARSED_TEXT)
-
-

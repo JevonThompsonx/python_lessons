@@ -15,7 +15,6 @@ async def GET_REQUEST(client, url):
     result = await client.get(url)
     return result.text
 
-
 async def main():
     async with httpx.AsyncClient() as client:
         tasks = [asyncio.create_task(GET_REQUEST(client, url)) for url in URLS]
